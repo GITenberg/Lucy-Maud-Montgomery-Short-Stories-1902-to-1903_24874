@@ -1,0 +1,38 @@
+_repo: Lucy-Maud-Montgomery-Short-Stories-1902-to-1903_24874
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montgomery, L. M. (Lucy Maud)
+    aliases:
+    - MacDonald, Lucy Maud Montgomery
+    - Montgomery, Lucy Maud
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36'
+    url: http://www.gutenberg.org/2009/agents/36
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+description: ''
+gutenberg_issued: '2008-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, Canadian'
+tableOfContents: A patent medicine testimonial -- A sandshore wooing -- After many
+  days -- An unconventional confidence -- Aunt Cyrilla's Christmas basket -- Davenport's
+  story -- Emily's husband -- Min -- Miss Cordelia's accommodation -- Ned's stroke
+  of business -- Our runaway kite -- The bride roses -- The Josephs' Christmas --
+  The magical bond of the sea -- The martyrdom of Estella -- The old chest at Wyther
+  Grange -- The Osbornes' Christmas -- The romance of Aunt Beatrice -- The running
+  away of Chester -- The strike at Putney -- The unhappiness of Miss Farquhar -- Why
+  Mr. Cropper changed his mind.
+title: Lucy Maud Montgomery Short Stories, 1902 to 1903
+url: http://www.gutenberg.org/ebooks/24874
